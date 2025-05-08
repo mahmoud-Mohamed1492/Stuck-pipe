@@ -111,7 +111,6 @@ keras==3.5.0
 keyboard==0.13.5
 kiwisolver==1.4.5
 lasio==0.31
-libtpu-nightly==0.1.dev20240729
 loguru==0.7.2
 lxml==4.9.3
 Markdown==3.4.4
